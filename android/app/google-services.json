@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "654804660349",
+    "project_id": "best-inox",
+    "storage_bucket": "best-inox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654804660349:android:3d01bec6f5179876f80114",
+        "android_client_info": {
+          "package_name": "com.example.best_inox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654804660349-qu5ov0d1ceqtaom4jt2g4cjjeg100n4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzhDw4TTOFmhcOU2wlKdfrVDSCKtxpfHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654804660349-qu5ov0d1ceqtaom4jt2g4cjjeg100n4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
